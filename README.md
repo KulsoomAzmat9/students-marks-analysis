@@ -7,7 +7,8 @@ Project Structure:
 students-marks-analysis/
 - data/students_marks.csv
 - src/analysis.py
-- charts/ (output charts)(terminal_output.png)
+- charts/ (output charts)
+- terminal_output.png
 - requirements.txt
 - README.md
 
@@ -26,7 +27,6 @@ What it does:
 Proof of Work:
 
 terminal_output.png` 
-
 
 Charts are saved in charts folder after running the script.
 
